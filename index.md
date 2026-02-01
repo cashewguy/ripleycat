@@ -23,7 +23,7 @@ show_downloads: "false"
 	<h2>Education</h2>
 	<hr>
 	<p><u>Caxford University</u> • Doctorate</p>
-	<p><b>Program of Study: Observation</b></p>
+	<p><b>Thesis: The Sociological Importance of Sleep and Somnial Events and in Modern Felines, a Logitudinal Study</b></p>
 	<br>
 	<p><u>The University of Catlinburg</u> • Artium Magister</p>
 	<p><b>Program of Study: Observation</b></p>
